@@ -2,7 +2,10 @@
 
 ## 💼 Information Technology Projects:
 - **Active Directory (AD):**
-  - [Configuring AD Users and Groups](link-to-repo)
+  - [Configuring AD Users and Computers](link-to-repo)
+  - [Creating Users and Groups (ADUC)](link-to-repo)
+  - [Configuring ManageEngine ADManager Plus](link-to-repo)
+  - [Creating Users and Groups (ADManager)](link-to-repo)
   - [Applying Security Policies](link-to-repo)
 
 - **Ticket Management:**
