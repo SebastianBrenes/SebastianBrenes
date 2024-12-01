@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sebastián, an IT Support Technical 👋
 
-<!--
-**SebastianBrenes/SebastianBrenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Information Technology Projects:
+- **Active Directory (AD):**
+  - [Configuring AD Users and Groups](link-to-repo)
+  - [Applying Security Policies](link-to-repo)
 
-Here are some ideas to get you started:
+- **Ticket Management:**
+  - [osTicket Installation and Configuration](link-to-repo)
+  - [Ticket Lifecycle Simulation](link-to-repo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Microsoft Azure:**
+  - [Managing Azure VMs and AD](link-to-repo)
+  - [Configuring NSGs](link-to-repo)
+
+## 📞 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](link-to-linkedin)
