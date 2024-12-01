@@ -14,4 +14,4 @@
   - [Configuring NSGs](link-to-repo)
 
 ## 📞 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](link-to-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sebast%C3%ADan-rodr%C3%ADguez-6111a1301/)
