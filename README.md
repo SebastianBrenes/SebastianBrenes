@@ -12,7 +12,7 @@
   - [Ticket Lifecycle Simulation](link-to-repo)
 
 - **Microsoft Azure:**
-  - [Managing Azure VMs and AD](link-to-repo)
+  - [Configuring and Managing Azure AD inside of Azure VM's](link-to-repo)
   - [Configuring NSGs](link-to-repo)
 
 ## 📞 Connect with me:
