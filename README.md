@@ -1,7 +1,7 @@
 # Hi, I'm Sebastián, an IT Support Technical 👋
 
 ## 💼 Information Technology Projects:
-- **Active Directory (AD):**
+- **Windows Active Directory (AD):**
   - [Configuring ManageEngine ADManager Plus](link-to-repo)
   - [Creating Users and Groups (ADManager)](link-to-repo)
   - [Creating Users and Groups (ADUC)](link-to-repo)
