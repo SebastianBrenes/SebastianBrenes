@@ -8,8 +8,9 @@
   - [Applying Security Policies](link-to-repo)
 
 - **Ticket Management:**
-  - [osTicket Installation and Configuration](link-to-repo)
-  - [Ticket Lifecycle Simulation](link-to-repo)
+  - [osTicket: Prerequisites and Installation](link-to-repo)
+  - [osTicket: Post-Installation Configuration](link-to-repo)
+  - [osTicket: Ticket Lifecycle Examples](link-to-repo)
 
 - **Microsoft Azure:**
   - [Configuring and Managing Azure AD inside of Azure VM's](link-to-repo)
