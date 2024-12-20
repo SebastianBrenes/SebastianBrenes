@@ -8,7 +8,7 @@
   - [Applying Security Policies](link-to-repo)
 
 - **Ticket Management:**
-  - [osTicket: Prerequisites and Installation](link-to-repo)
+  - [osTicket: Prerequisites and Installation](https://github.com/SebastianBrenes/osTicket_Pre)
   - [osTicket: Post-Installation Configuration](link-to-repo)
   - [osTicket: Ticket Lifecycle Examples](link-to-repo)
 
