@@ -14,7 +14,7 @@
 
 - **Microsoft Azure:**
   - [Configuring and Managing Azure AD inside of Azure VM's](https://github.com/SebastianBrenes/Azure_Config)
-  - [Configuring NSGs](https://github.com/SebastianBrenes/Azure_Config_NSG)
+  - [Configuring NSGs and Inspecting Traffic](https://github.com/SebastianBrenes/Azure_Config_NSG)
 
 ## 📞 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sebastianrodr/)
