@@ -1,4 +1,4 @@
-# Hi, I'm Sebastián, an IT Support Technical 👋
+# Hi, I'm Sebastián, an IT Support Technician 👋
 
 ## 💼 Information Technology Projects:
 - **Windows Active Directory (AD):**
